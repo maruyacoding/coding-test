@@ -26,5 +26,4 @@ array.sort()
 
 for i in array :
     print(i)
-for j in array : 
-    print(j)
+
